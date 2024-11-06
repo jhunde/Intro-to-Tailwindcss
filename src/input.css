@@ -1,0 +1,9 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+/* If not in the tailwind.css, define it here */
+.radial-blue{
+ background: radial-gradient(white, black);   
+}
