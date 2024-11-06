@@ -46,3 +46,4 @@ Example:
  background: radial-gradient(white, black);   
 }
 ```
+![screen](output.jpg)
